@@ -1,0 +1,47 @@
+.foto {
+  width: 300px;
+  padding: 50px;
+  margin: 100px;
+  border: 3px rgb(36, 212, 39);
+}
+
+#title {
+  color: rgb(24, 166, 100);
+}
+
+.text {
+  color: brown;
+  border: 3px blue;
+}
+
+.back {
+  background-color: blueviolet;
+  color: rgb(36, 212, 39);
+}
+
+.backgraund-image {
+  background-image: url("img/pattern.png");
+  padding: 25px;
+  color: aliceblue;
+}
+
+#width-height {
+  width: 200px;
+  height: 100px;
+  background-color: black;
+}
+
+#margin {
+  border: 3px solid red;
+  margin: 50px;
+  width: 100px;
+  height: 100px;
+  padding: 40px;
+}
+
+#redonda {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-radius: 10px;
+}
